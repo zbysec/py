@@ -43,3 +43,4 @@ Posuvníky reagují na kliknutí kamkoliv na své ploše
 Pro plynulejší chod s velkým počtem částic snižte MAX_SPEED
 
 Stiskem ESC můžete kdykoliv ukončit simulaci
+[![Run on Repl.it](https://replit.com/badge/github/zbysec/py)](https://replit.com/new/github/zbysec/py)
